@@ -1,4 +1,4 @@
-package com.liuyu.weather.contus;
+package com.liuyu.weather.util;
 
 /**
  * Created by Administrator on 2017/4/6.
