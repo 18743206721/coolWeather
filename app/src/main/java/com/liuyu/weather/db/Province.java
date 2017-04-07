@@ -13,14 +13,6 @@ public class Province extends DataSupport{
     /**省份的代号**/
     private int provinceCode;
 
-    public Province() {
-    }
-
-    public Province(int id, String provinceName, int provinceCode) {
-        this.id = id;
-        this.provinceName = provinceName;
-        this.provinceCode = provinceCode;
-    }
 
     public String getProvinceName() {
         return provinceName;
